@@ -67,7 +67,7 @@ def usage():
 	print 'You should enter the following arguments'
 	print '-s [--search] search a text in database/table'
 	print '-r [--replace] replace this text search a text in database/table'
-	print '-u [--user] user name of the database'
+	print '-u [--user] user name of the database '
 	print '-p [--password] password of the database'
 	print '-d [--database] name of the database\n'
 	print 'Optional: '
